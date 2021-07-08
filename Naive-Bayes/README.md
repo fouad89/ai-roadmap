@@ -1,3 +1,4 @@
+# NLP - Naive Bayes to Classify Spam Messages
 <p style="font-size:16px">In this Notebook, We go over some of the Naive Bayes basic definitions and formulas. The workflow of the notbook is explained. Following preprocessing steps and some evaluation metrics. Two Naive Bayes Classifiers were used. The MultinomialNB classifier had the better performance.   </p>
 
 ### Achieved Accuracy: 98.8% 
